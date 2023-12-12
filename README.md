@@ -1,7 +1,7 @@
 # 💸 Pix Generator 💸
 
-Hi! Welcome to my Pix generator application.
-This app can be used on card machine to generate a pix code in format "copy & paste" and QRCode.
+Hi! Welcome to my Pix generator application using python.
+This app can be used to generate a pix code in format "copy & paste" and QRCode.
 
 ## What is Pix?
 
